@@ -1,1 +1,2 @@
 Content for first commit in feature
+Content for second commit in feature
